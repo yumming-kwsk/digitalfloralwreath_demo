@@ -43,7 +43,7 @@ function draw(){
   line(0,0,-180,height);
 
   //name
-  drawName(0,height / 2.4);
+  drawName(0,280);
 
   //hanawa 
   noStroke();
